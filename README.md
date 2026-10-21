@@ -96,5 +96,7 @@ Atualmente, curso Ciência da Computação e aprofundo meus conhecimentos em des
 ## Contato
 
 <p>
-  <a href="mailto:joaootaviolobo19@gmail.com">joaootaviolobo19@gmail.com</a>
+  <a href="mailto:joaootaviolobo19@gmail.com">E-mail</a>
+  ·
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ot%C3%A1vio-00768b392/">LinkedIn</a>
 </p>
